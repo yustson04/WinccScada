@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "apdefap.h": "c",
+        "define.h": "c",
+        "ap_pbib.h": "c"
+    }
+}
