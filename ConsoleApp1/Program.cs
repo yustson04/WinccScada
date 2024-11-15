@@ -8,6 +8,7 @@ using System.Windows.Forms;
 public class Program
 {
     public static MainFrame form = new MainFrame();
+    Button button = new Button{Height=50, Width=50, Text}
     [STAThread]
     static void Main(string[] args)
     {

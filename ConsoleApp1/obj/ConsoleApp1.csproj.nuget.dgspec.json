@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\kisystem\\Documents\\VSCode\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\kisystem\\Documents\\VSCode\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "c:\\Users\\kisystem\\Documents\\VSCode\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\kisystem\\Documents\\VSCode\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\kisystem\\Documents\\VSCode\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\kisystem\\Documents\\VSCode\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "c:\\Users\\kisystem\\Documents\\VSCode\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "C:\\Users\\kisystem\\Documents\\VSCode\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\kisystem\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\kisystem\\Documents\\VSCode\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\kisystem\\Documents\\VSCode\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kisystem\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -50,7 +50,7 @@
               "autoReferenced": true
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
